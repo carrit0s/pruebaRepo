@@ -2,10 +2,10 @@
 Mi descripción del repo
 
 ```php
-function mostrar($x){
-    echo $x;
+function mostrar(){
+    echo "HolaMundo";
 }
-mostrar("Hola Mundo");
+mostrar();
 ```
 
 Esto es una lista:
