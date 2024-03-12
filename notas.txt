@@ -1,1 +1,2 @@
 Este es mi fichero txt
+Esta es mi nueva linea
