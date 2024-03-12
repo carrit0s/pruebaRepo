@@ -1,10 +1,11 @@
 # pruebaRepo
 Mi descripción del repo
 
-```python
-def mifuncion():
-  print (x)
-  print("HolaMundo")
+```php
+function mostrar($x){
+    echo $x;
+}
+mostrar("Hola Mundo");
 ```
 
 Esto es una lista:
