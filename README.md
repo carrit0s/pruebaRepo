@@ -9,6 +9,7 @@ mostrar();
 ```
 
 Esto es una lista:
+ - HOLA
  - MUNDO
 
 Esta es la [Sintaxis de Markdown](https://markdown.es/sintaxis-markdown/), puedes verlo.
